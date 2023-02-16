@@ -1,0 +1,11 @@
+name: GR
+channels:
+  - defaults
+dependencies:
+  - sympy
+  - jupyter
+  - astropy
+  - scipy
+  - matplotlib
+  - numpy
+prefix: /opt/anaconda3/envs/GR
