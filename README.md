@@ -1,9 +1,9 @@
 # UVGGR
 General Relativity Class at Universidad del Valle de Guatemala   
    
-##2023   
+## 2023   
 
-#Introduction to General Relativity and Cosmology  
+# Introduction to General Relativity and Cosmology  
 
 Prof. Julio Gallegos Alvarado
 
